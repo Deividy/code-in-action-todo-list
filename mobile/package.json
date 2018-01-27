@@ -1,0 +1,10 @@
+{
+    "name": "TodoListCodeInAction",
+    "description": "Todo list #codeinaction",
+    "version": "0.0.01",
+    "dependencies": {
+        "react-native": "v0.51.0",
+        "react": "v16.2.0",
+        "react-native-vector-icons": ""
+    }
+}
